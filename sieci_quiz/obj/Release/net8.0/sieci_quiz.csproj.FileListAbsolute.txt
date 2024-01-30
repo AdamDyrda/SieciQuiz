@@ -1,0 +1,14 @@
+C:\Users\zuzia\Desktop\programowanie\sieci_quiz\sieci_quiz\bin\Release\net8.0\sieci_quiz.exe
+C:\Users\zuzia\Desktop\programowanie\sieci_quiz\sieci_quiz\bin\Release\net8.0\sieci_quiz.deps.json
+C:\Users\zuzia\Desktop\programowanie\sieci_quiz\sieci_quiz\bin\Release\net8.0\sieci_quiz.runtimeconfig.json
+C:\Users\zuzia\Desktop\programowanie\sieci_quiz\sieci_quiz\bin\Release\net8.0\sieci_quiz.dll
+C:\Users\zuzia\Desktop\programowanie\sieci_quiz\sieci_quiz\bin\Release\net8.0\sieci_quiz.pdb
+C:\Users\zuzia\Desktop\programowanie\sieci_quiz\sieci_quiz\obj\Release\net8.0\sieci_quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zuzia\Desktop\programowanie\sieci_quiz\sieci_quiz\obj\Release\net8.0\sieci_quiz.AssemblyInfoInputs.cache
+C:\Users\zuzia\Desktop\programowanie\sieci_quiz\sieci_quiz\obj\Release\net8.0\sieci_quiz.AssemblyInfo.cs
+C:\Users\zuzia\Desktop\programowanie\sieci_quiz\sieci_quiz\obj\Release\net8.0\sieci_quiz.csproj.CoreCompileInputs.cache
+C:\Users\zuzia\Desktop\programowanie\sieci_quiz\sieci_quiz\obj\Release\net8.0\sieci_quiz.dll
+C:\Users\zuzia\Desktop\programowanie\sieci_quiz\sieci_quiz\obj\Release\net8.0\refint\sieci_quiz.dll
+C:\Users\zuzia\Desktop\programowanie\sieci_quiz\sieci_quiz\obj\Release\net8.0\sieci_quiz.pdb
+C:\Users\zuzia\Desktop\programowanie\sieci_quiz\sieci_quiz\obj\Release\net8.0\sieci_quiz.genruntimeconfig.cache
+C:\Users\zuzia\Desktop\programowanie\sieci_quiz\sieci_quiz\obj\Release\net8.0\ref\sieci_quiz.dll
