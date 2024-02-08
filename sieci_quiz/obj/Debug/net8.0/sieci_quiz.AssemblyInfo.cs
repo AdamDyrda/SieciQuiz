@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("sieci_quiz")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+036069f8267b5533f8fbbae54be4a80fd2da6028")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06558c88e650343c115713cdd8e36454c2bb016e")]
 [assembly: System.Reflection.AssemblyProductAttribute("sieci_quiz")]
 [assembly: System.Reflection.AssemblyTitleAttribute("sieci_quiz")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

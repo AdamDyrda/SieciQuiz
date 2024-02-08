@@ -7,13 +7,15 @@ class Program
     static void Main(string[] args)
     {
         
-        string baza = File.ReadAllText($"{Environment.ProcessPath}/../BazaPytan.txt").TrimEnd();
+        string baza = File.ReadAllText($"{Environment.ProcessPath}/../BazaPytan.txt");
         
         List<string> Pytania = new List<string>();
         foreach (string part in baza.Split("\n"))
         {
             Pytania.Add(part);
         }
+
+        Pytania.Remove(Pytania.Last());
 
         int QuestionsCount = Pytania.Count();
         int Counter = new int();
