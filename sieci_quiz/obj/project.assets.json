@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adame\\Desktop\\sieci_quiz\\sieci_quiz\\sieci_quiz.csproj",
+      "projectUniqueName": "C:\\Users\\adame\\RiderProjects\\SieciQuiz\\sieci_quiz\\sieci_quiz.csproj",
       "projectName": "sieci_quiz",
-      "projectPath": "C:\\Users\\adame\\Desktop\\sieci_quiz\\sieci_quiz\\sieci_quiz.csproj",
+      "projectPath": "C:\\Users\\adame\\RiderProjects\\SieciQuiz\\sieci_quiz\\sieci_quiz.csproj",
       "packagesPath": "C:\\Users\\adame\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adame\\Desktop\\sieci_quiz\\sieci_quiz\\obj\\",
+      "outputPath": "C:\\Users\\adame\\RiderProjects\\SieciQuiz\\sieci_quiz\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\adame\\AppData\\Roaming\\NuGet\\NuGet.Config",
