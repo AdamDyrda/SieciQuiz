@@ -7,7 +7,7 @@ class Program
     static void Main(string[] args)
     {
         
-        string baza = File.ReadAllText($"{Environment.ProcessPath}/../BazaPytan.txt");
+        string baza = File.ReadAllText($"{Environment.ProcessPath}/../BazaPytan.txt").TrimEnd();
         
         List<string> Pytania = new List<string>();
         foreach (string part in baza.Split("\n"))
