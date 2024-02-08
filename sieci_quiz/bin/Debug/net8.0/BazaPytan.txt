@@ -143,7 +143,6 @@
 143. Wymiana pamięci (ang. swapping) jest to:;a) przenoszenie całego procesu pomiędzy pamięcią operacyjną i fizycznym urządzeniem przestrzeni wymiany lub plikiem wymiany;b) przenoszenie danych z pamięci operacyjnej do rejestrów procesora;c) przenoszenie danych pomiędzy pamięcią operacyjną i pamięcią podręczną ;d) przenoszenie strony pamięci pomiędzy pamięcią operacyjną i fizycznym urządzeniem przestrzeni wymiany lub plikiem wymiany;|A
 144. Które pole w nagłówku IP zapewnia, że pakiety nie będą w nieskończoność zapętlać się w sieci?;a) CRC;b) Suma kontrolna;c) TOS;d) TTL;|D
 145. Program (polecenie) służący do badania trasy pakietów w sieci IP w systemach linux i IOS ma nazwę:;a) traceroute;b) netstat;c) tracert;d) route;|C
-147. Który typ adresowania występuje w warstwie 2 modelu OSI (wybrać dwie odpowiedzi)?;a) Logiczne;b) IP;c) Fizyczne;d) MAC;|AD
 146. Które z urządzeń mogą rozwiązać problem nadmiernego ruchu rozgłoszeniowego?;a) Most;b) Przełącznik;c) Router;d) Koncentrator;|C
 147. Warstwa fizyczna jest modelu OSI;a) warstwą 1;b) warstwą 7;c) warstwą 3;d) warstwą 4;|A
 148. W sieci znajduje się 10 komputerów połączonych do koncentratora 10Mbps half-duplex. Do tego koncentratora podłączony jest również serwer na takim samym łączu. Jaką szerokość pasma na połączenie każdego komputera z serwerem?;a) 100kbps;b) 10Mbps;c) 1Mbps;d) 2Mbps;|C
@@ -158,3 +157,4 @@
 157. Za co jest odpowiedzialny host odbierający podczas transferu danych (wybrać dwie najlepsze odpowiedzi)?;a) Enkapsulacja;b) Ponowne zestawienie (resekwencjonowanie) segmentów;c) Segmentacja;d) Potwierdzanie;|BD
 158. Ile jest bitów w adresie MAC?;a) 32; b) 16;c) 48;d) 8;|C
 159. Co się może stać, gdy wartość TTL będzie równa I (wybrać dwie odpowiedzi)?;a) Pakiet może zostać poprawnie dostarczony, jeśli miejscem docelowym jest bezpośrednio podłączona sieć.;b) Pakiet zostanie zwrócony do hosta źródłowego,;c) Mechanizmy kontrolne TCP dodadzą do wartości TTL dalsze skoki.;d) Pakiet zostanie odrzucony przez następny router, chyba że do jego interfejsu jest podłączona sieć docelowa.;|AD
+160. Który typ adresowania występuje w warstwie 2 modelu OSI (wybrać dwie odpowiedzi)?;a) Logiczne;b) IP;c) Fizyczne;d) MAC;|CD
